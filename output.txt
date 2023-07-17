@@ -1,0 +1,20 @@
+Roll Number: 7
+Attendance: 100
+Score: 25
+
+Roll Number: 3
+Attendance: 40
+Score: 50
+
+Roll Number: 4
+Attendance: 60
+Score: 50
+
+Roll Number: 5
+Attendance: 80
+Score: 35
+
+Roll Number: 6
+Attendance: 99
+Score: 49
+
